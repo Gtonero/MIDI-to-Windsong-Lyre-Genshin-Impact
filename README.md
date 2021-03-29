@@ -1,7 +1,7 @@
 # MIDI-to-Windsong-Lyre-Genshin-Impact
 MIDI to Windsong Lyre | Genshin Impact
 
-script is specifically designed for Genshin Impact
+script is specifically designed for Genshin Impact  
 The item used is Windsong Lyre.
 
 # Requirement
@@ -14,5 +14,5 @@ This script requires Python 3.7
 4. Play/Stop song with Delete keyboard or Close CMD
 
 # CREDIT and Thx
-python-MidiToVirtualPianoMacro by Stereo101
+python-MidiToVirtualPianoMacro by Stereo101  
 https://github.com/Stereo101/python-MidiToVirtualPianoMacro
