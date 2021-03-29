@@ -49,9 +49,9 @@ class MidiFile:
 	midiRecord = open("midiRecord.txt","w")
 	midiSong = open("song.txt","w")
 	midiSheet = open("sheetConversion.txt","w")
-	                     #low_Pitch  #Mid_Pitch     #High_Pitch
+	                     #low_Pitch  #Mid_Pitch  #High_Pitch
 	virtualPianoScale = "zZxXcvVbBnNmaAsSdfFgGhHjqQwWerRtTyYuqQwWerRtTyYuqQwWerRtTyYu))"
-	#Soure_              zZxcCvVbBnmasSdDfgGhHjJklLqQwWeErtTyYqwertyuqQwWeErtTyYuiIoOpP
+	
 	deltaTimeStarted = False
 	deltaTime = 0
 	
