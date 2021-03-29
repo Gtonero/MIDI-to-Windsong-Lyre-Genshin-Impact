@@ -51,7 +51,7 @@ class MidiFile:
 	midiSheet = open("sheetConversion.txt","w")
 	                     #low_Pitch  #Mid_Pitch  #High_Pitch
 	virtualPianoScale = "zZxXcvVbBnNmaAsSdfFgGhHjqQwWerRtTyYuqQwWerRtTyYuqQwWerRtTyYu))"
-	
+	                     #If the note goes wrong, let's fix this part.
 	deltaTimeStarted = False
 	deltaTime = 0
 	
