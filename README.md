@@ -13,6 +13,9 @@ This script requires Python 3.7
 3. Run playSong.py with run as administrator.
 4. Play/Stop song with Delete keyboard or Close CMD
 
+# Youtube Guide
+https://www.youtube.com/watch?v=gKHo-DDHxpc
+
 # CREDIT and Thx
 python-MidiToVirtualPianoMacro by Stereo101  
 https://github.com/Stereo101/python-MidiToVirtualPianoMacro
