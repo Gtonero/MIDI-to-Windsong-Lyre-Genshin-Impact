@@ -1,5 +1,5 @@
 # to build, use "cd (playsong directory)"
-# pyinstaller --onefile playSong.py
+# pyinstaller --onefile playSong.py.
 
 import keyboard
 import threading
