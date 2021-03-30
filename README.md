@@ -2,8 +2,8 @@
 MIDI to Windsong Lyre | Genshin Impact
 
 Script is specifically designed for Genshin Impact  
-The item used is Windsong Lyre.
-This script is designed to be as easy to use as possible 
+The item used is Windsong Lyre.  
+This script is designed to be as easy to use as possible  
 using only Python, no 3rd program.
 
 # Requirement
